@@ -1,4 +1,4 @@
-## Hi there 👋
+## Seja você o Github, o controle de versões da sua vida. E a cada atualização má sucedida, retorne a sua melhor versão! 
 
 <div>
   <img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=marcio-bahia&show_icons=true&theme=transparent"/>
